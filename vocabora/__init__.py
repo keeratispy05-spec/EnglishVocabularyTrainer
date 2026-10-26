@@ -1,0 +1,1 @@
+"""VOCABORA application package."""

@@ -1,0 +1,15 @@
+{
+  "words": [
+    {
+      "word": "curiosity",
+      "translation": "ความอยากรู้อยากเห็น",
+      "pos": "noun",
+      "cefr": "B1",
+      "category": "บุคลิกภาพและลักษณะนิสัย",
+      "pronunciation": "",
+      "example": "Curiosity helps us learn new things.",
+      "example_translation": "ความอยากรู้อยากเห็นช่วยให้เราเรียนรู้สิ่งใหม่ ๆ",
+      "synonyms": ["interest", "inquisitiveness"]
+    }
+  ]
+}
